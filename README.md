@@ -12,4 +12,5 @@ python (el nombre del archivo).py
 
 
 por ejmplo:
+
 python body.py
